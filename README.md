@@ -8,6 +8,7 @@
 ![GitHub Dynamic Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdiGo22&theme=github)
 
 - 🖥️ Full Stack Developer. *Turning coffee into code and bugs into features ☕*
+- 📱  Mobile Developer (React Native/Expo -  Android/ioS)
 - 💡 Passionate about coding and simplifying complex problems.
 - 🛠️ Proficient in **JavaScript**, **ReactJS**, **NodeJS**,**ExpressJS**, **NoSQL**,**SQL**  and **Core Java**.
 - 🚀 Turning debugging into deployment and meetings into solutions—one sprint at a time.
